@@ -16,7 +16,7 @@ const App: React.FC = () => {
             name="Main"
             component={Main}
             options={{
-              title: 'メモ帳',
+              title: 'ホーム',
             }}
           />
           {/* <Stack.Screen
